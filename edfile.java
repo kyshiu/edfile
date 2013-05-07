@@ -1,8 +1,9 @@
 // $Id: edfile.java,v 1.3 2013-04-11 19:02:25-07 - - $
+package edfile;
 
 import static java.lang.System.*;
 
-class edfile{
+public class edfile{
 
     public static void main (String[] args) {
 	dllist lines = new dllist ();

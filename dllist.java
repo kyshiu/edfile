@@ -1,6 +1,7 @@
 // $Id: dllist.java,v 1.1 2013-04-11 19:04:05-07 - - $
+package edfile;
 
-class dllist {
+public class dllist {
 
     public enum position {FIRST, PREVIOUS, FOLLOWING, LAST};
 

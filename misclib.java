@@ -1,8 +1,8 @@
-// $Id: misclib.java,v 1.1 2013-04-11 19:04:05-07 - - $
+package edfile;
 
 import static java.lang.System.*;
 
-class misclib {
+public class misclib {
     public static final int EXIT_SUCCESS = 0;
     public static final int EXIT_FAILURE = 1;
     public static int exit_status = EXIT_SUCCESS;
